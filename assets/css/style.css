@@ -2,4 +2,6 @@ h1 {
   border: 1px solid blue;
   box-shadow: 0 0 5px red;
   background-color: silver;
+  text-align: center;
+  font-size: 50px;
 }
